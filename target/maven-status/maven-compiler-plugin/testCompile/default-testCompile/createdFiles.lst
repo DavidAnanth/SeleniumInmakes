@@ -1,0 +1,12 @@
+org\pojo\AmazonSignInPojo.class
+org\pojo\myntraPojo.class
+org\stepdefinition\gmailSignIn.class
+org\stepdefinition\signInAmazon.class
+org\pojo\TestLoginPojo.class
+org\pojo\gmailSignInPojo.class
+org\base\BaseClass.class
+org\stepdefinition\myntraSearch.class
+org\stepdefinition\TestLogin.class
+org\stepdefinition\fbSignUp.class
+org\pojo\FbSignInPojo.class
+org\runner\myntraSearchRunner.class

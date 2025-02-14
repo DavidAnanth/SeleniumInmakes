@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="16.127" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-02-10T10:43:48.674782800Z">
+<testcase classname="To validate the Myntra site for search validation" name="To validate the search scenario against watches" time="7.51">
+<system-out><![CDATA[
+Given I open the Myntra website.............................................passed
+Then I enter the search text as "fastrack"..................................passed
+And I click the enter button................................................passed
+Then I print the price of the third product.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="To validate the Myntra site for search validation" name="To validate the search scenario against bags" time="8.265">
+<system-out><![CDATA[
+Given I open the Myntra website.............................................passed
+Then I enter the search text as "skybags"...................................passed
+And I click the enter button................................................passed
+Then I print the price of the first product.................................passed
+]]></system-out>
+</testcase>
+</testsuite>
